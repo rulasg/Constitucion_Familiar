@@ -12,3 +12,5 @@ Todo adolescente tiene la obligación de cumplir con su responsabilidad de asist
 
 ## 1.2
 
+Esta parte la ha escrito Ana
+
