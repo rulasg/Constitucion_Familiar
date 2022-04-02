@@ -52,11 +52,15 @@ El contenido que se visualice debe ser acorde a la edad.
 
 ## Seccion 4ª - Respeto a uno  mismo, desarrollo integral
 
-### Artículo 4.1 El consumo de drogas está completamente prohibido, ya que no solo impide el correcto comportamiento y desarrollo sino que tambien afecta enormemente al futuro del adolescente. 
+### Artículo 4.1 El cuerpo:
 
-### Artículo 4.2 se cuidará el cuerpo para mantenerlo sano, lo que incluye la higiene personal diaria, y el deporte.
+El consumo de drogas está completamente prohibido, ya que no solo impide el correcto comportamiento y desarrollo sino que tambien afecta enormemente al futuro del adolescente. 
 
-### Artículo 4.3 se facilitará el desarrollo psicologico sano, rodeandose de personas que no puedan dañar al Adolescente, que aporten habitos de vida saludables, y escuchando las opiniones de los adultos. 
+Se cuidará el cuerpo para mantenerlo sano, lo que incluye la higiene personal diaria, y el deporte.
+
+### Artículo 4.2 La mente:
+
+Se facilitará el desarrollo psicologico sano, rodeandose de personas que no puedan dañar al Adolescente, que aporten habitos de vida saludables, y escuchando las opiniones de los adultos. 
 
 INCUMPLIMIENTOS
 
