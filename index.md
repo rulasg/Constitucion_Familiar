@@ -36,17 +36,17 @@ Los adolescentes deben cumplir con el Articulo 155 del Código Civil, donde se e
 
 Se repetarán las pertenencias propias, comunes y de los otros miembros. Casa, coche, ropa, material escolar, ect.
 
-#### 2.2.1 Sinceridad y Honestidad: en Luceland se será siempre FIEL a la VERDAD, y no se penalizará la Ocultación y la Manipulación.
+#### 2.2.1 Sinceridad y Honestidad: el testimonio será siempre fiel a la VERDAD, y se penalizará la Ocultación y la Manipulación.
 
 #### 2.2.2 Se obedecerán las normas que regulan la convovencia de Luceland. Estas normas, y las consecuencias de su imcumplimiento, pueden ser negociadas por todos los miembros cada seis meses.
 
-#### 2.2.3 Se mantendrá siempre un trato de cariño entre todos los miembros, la generosidad entre los miembros debe imperar en su comportamiento.
+#### 2.2.3 Se mantendrá siempre un trato de cariño y respeto entre todos los miembros, la generosidad entre los miembros debe imperar en su comportamiento.
 
-#### 2.2.4 Los adolescentes se responsabilizan de tareas en el ambito familiar que beneficien a todos los miembros, ayudando de esta forma, y con sus posibilidades al levantamiento de las cargas.
+#### 2.2.4 Los adolescentes se responsabilizan de tareas en el ambito familiar que beneficien a todos los miembros, ayudando de esta forma, y cada uno con sus posibilidades, al levantamiento de las cargas y el buen funcionamiento de Luceland.
 
 ## Seccion 3ª - Comportamiento fuera de Luceland
 
-Siendo la Madre responsable en último termino de las acciones, y consecuencias del comportamiento de los Adolescentes, es completamente necesaria la regulación de este aspecto, para evitar consecuencias que puedan dañar tanto al adolescente como al resto de los miembros de la República, ya sea fisica, psicológicamnete, o económicamente.
+Siendo la Madre responsable en último termino de las acciones, y consecuencias del comportamiento de los Adolescentes, es completamente necesaria la regulación de este aspecto, para evitar consecuencias que puedan dañar tanto al adolescente, como al resto de los miembros de la República, ya sea física, psicológicamnete, o económicamente.
 
 ### Artículo 3.1 Redes sociales: 
 
