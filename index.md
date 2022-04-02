@@ -2,7 +2,7 @@
 
 Con el afán de facilitar la convivencia de los miembros adolescentes de Luceland, pasamos a definir el marco regulador de derechos y responsabilidades de obligado cumplimiento.
 
-ESTATUTOS
+## - ESTATUTOS - 
 
 ## Sección 1ª - Los estudios
 
@@ -14,7 +14,7 @@ Todo adolescente tiene la obligación de cumplir con su responsabilidad de asist
 
 ### Artículo 1.2
 
-La no asistencia de a alguna clase no acordada previamente, o el retraso en la entrada dela misma, tendrá una penalización.
+La no asistencia a alguna clase no acordada previamente, o el retraso en la entrada de la misma, tendrá una penalización.
 El comportamiento en el aula, y los recreos debe ser siempre el exigido por el centro, el profesor, y respetando a los compañeros.
 Para cumplir con la responsabilidad de formación es requisito indispensable aprobar todas las asignaturas a final de curso.
 
@@ -31,6 +31,10 @@ Los padres podrán en el ejercicio de su potestad recabar el auxilio de la autor
 ### Artículo 2.2 
 
 Los adolescentes deben cumplir con el Articulo 155 del Código Civil, donde se expresa que: Los hijos no emancipados están bajo la potestad del padre y la madre. Los hijos deben: Obedecer a sus padres mientras permanezcan bajo su potestad y respetarles siempre. Contribuir equitativamente, según sus posibilidades, al levantamiento de las cargas de la familia mientras convivan con ella.
+
+### Artículo 2.3
+
+Se repetarán las pertenencias propias, comunes y de los otros miembros. Casa, coche, ropa, material escolar, ect.
 
 #### 2.2.1 Sinceridad y Honestidad: en Luceland se será siempre FIEL a la VERDAD, y no se penalizará la Ocultación y la Manipulación.
 
@@ -62,6 +66,8 @@ Se cuidará el cuerpo para mantenerlo sano, lo que incluye la higiene personal d
 
 Se facilitará el desarrollo psicologico sano, rodeandose de personas que no puedan dañar al Adolescente, que aporten habitos de vida saludables, y escuchando las opiniones de los adultos. 
 
-INCUMPLIMIENTOS
+## - INCUMPLIMIENTOS - 
 
 El incumplimiento de cualquier de los articulos anteriormente expuestos tendrá consecuencias, o bien económicas, o bien sobre los derechos adquiridos por el Adolescente.
+Siempre que se genere un daño, este será reparado.
+
