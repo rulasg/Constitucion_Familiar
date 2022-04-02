@@ -38,6 +38,8 @@ Los adolescentes deben cumplir con el Articulo 155 del Código Civil, donde se e
 
 #### 2.2.3 Se mantendrá siempre un trato de cariño entre todos los miembros, la generosidad entre los miembros debe imperar en su comportamiento.
 
+#### 2.2.4 Los adolescentes se responsabilizan de tareas en el ambito familiar que beneficien a todos los miembros, ayudando de esta forma, y con sus posibilidades al levantamiento de las cargas.
+
 ## Seccion 3ª - Comportamiento fuera de Luceland
 
 Siendo la Madre responsable en último termino de las acciones, y consecuencias del comportamiento de los Adolescentes, es completamente necesaria la regulación de este aspecto, para evitar consecuencias que puedan dañar tanto al adolescente como al resto de los miembros de la República, ya sea fisica, psicológicamnete, o económicamente.
@@ -48,7 +50,14 @@ Siempre se mantendrá una relación respetuosa con todos los contactos, sin cabi
 
 El contenido que se visualice debe ser acorde a la edad.
 
-### Artículo 3.2 El consumo de drogas está completamente prohibido, ya que no solo impide el correcto comportamiento y desarrollo sino que tambien afecta enormemente al futuro del adolescente. 
+## Seccion 4ª - Respeto a uno  mismo, desarrollo integral
+
+### Artículo 4.1 El consumo de drogas está completamente prohibido, ya que no solo impide el correcto comportamiento y desarrollo sino que tambien afecta enormemente al futuro del adolescente. 
+
+### Artículo 4.2 se cuidará el cuerpo para mantenerlo sano, lo que incluye la higiene personal diaria, y el deporte.
+
+### Artículo 4.3 se facilitará el desarrollo psicologico sano, rodeandose de personas que no puedan dañar al Adolescente, que aporten habitos de vida saludables, y escuchando las opiniones de los adultos. 
 
 INCUMPLIMIENTOS
 
+El incumplimiento de cualquier de los articulos anteriormente expuestos tendrá consecuencias, o bien económicas, o bien sobre los derechos adquiridos por el Adolescente.
