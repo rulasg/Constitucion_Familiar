@@ -2,6 +2,8 @@
 
 Con el afán de facilitar la convivencia de los miembros adolescentes de Luceland, pasamos a definir el marco regulador de derechos y responsabilidades de obligado cumplimiento.
 
+ESTATUTOS
+
 ## Sección 1ª - Los estudios
 
 Todo habitante de Luceland deberá tener una actividad principal acorde a su edad y nivel de responsabilidad con el fin de formarse o aportar al mantenimiento económico de la familia. En el caso de los adolescentes, su principal actividad será cumplir con sus responsabilidad educativa no permitiendo que ninguna otra actividad pueda interferir en el buen rendimiento de la misma.
@@ -47,4 +49,6 @@ Siempre se mantendrá una relación respetuosa con todos los contactos, sin cabi
 El contenido que se visualice debe ser acorde a la edad.
 
 ### Artículo 3.2 El consumo de drogas está completamente prohibido, ya que no solo impide el correcto comportamiento y desarrollo sino que tambien afecta enormemente al futuro del adolescente. 
+
+INCUMPLIMIENTOS
 
