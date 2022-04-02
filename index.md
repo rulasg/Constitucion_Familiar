@@ -50,7 +50,7 @@ Siendo la Madre responsable en último termino de las acciones, y consecuencias 
 
 ### Artículo 3.1 Redes sociales: 
 
-Siempre se mantendrá una relación respetuosa con todos los contactos, sin cabida a los insultos. 
+Siempre se mantendrá una relación respetuosa con todos los contactos, sin cabida a los insultos ni a las muestras extremas de rabia como los golpes. 
 
 El contenido que se visualice debe ser acorde a la edad.
 
@@ -58,16 +58,19 @@ El contenido que se visualice debe ser acorde a la edad.
 
 ### Artículo 4.1 El cuerpo:
 
-El consumo de drogas está completamente prohibido, ya que no solo impide el correcto comportamiento y desarrollo sino que tambien afecta enormemente al futuro del adolescente. 
+El consumo de drogas está completamente prohibido, ya que no solo impide el correcto comportamiento, sino que tambien afecta al desarrollo presente y futuro del adolescente, pudiendo dejar secuelas permanentes.
 
 Se cuidará el cuerpo para mantenerlo sano, lo que incluye la higiene personal diaria, y el deporte.
 
 ### Artículo 4.2 La mente:
 
-Se facilitará el desarrollo psicologico sano, rodeandose de personas que no puedan dañar al Adolescente, que aporten habitos de vida saludables, y escuchando las opiniones de los adultos. 
+Se facilitará el desarrollo psicológico sano, rodeandose de personas que no puedan dañar al Adolescente, que aporten habitos de vida saludables, y escuchando las opiniones de los adultos. 
+
+La Madre se compromete a apoyar la práctica de deporte, con su tiempo y dinero.
 
 ## - INCUMPLIMIENTOS - 
 
-El incumplimiento de cualquier de los articulos anteriormente expuestos tendrá consecuencias, o bien económicas, o bien sobre los derechos adquiridos por el Adolescente.
+El incumplimiento de cualquier de los artículos anteriormente expuestos tendrá consecuencias, o bien económicas, o bien sobre los derechos adquiridos por el Adolescente.
+
 Siempre que se genere un daño, este será reparado.
 
