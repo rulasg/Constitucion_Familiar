@@ -32,7 +32,7 @@ Los padres podrán en el ejercicio de su potestad recabar el auxilio de la autor
 
 Los adolescentes deben cumplir con el Articulo 155 del Código Civil, donde se expresa que: Los hijos no emancipados están bajo la potestad del padre y la madre. Los hijos deben: Obedecer a sus padres mientras permanezcan bajo su potestad y respetarles siempre. Contribuir equitativamente, según sus posibilidades, al levantamiento de las cargas de la familia mientras convivan con ella.
 
-#### 2.2.1.Sinceridad y Honestidad: en Luceland se será siempre FIEL a la VERDAD, y no se penalizará la Ocultación y la Manipulación.
+#### 2.2.1 Sinceridad y Honestidad: en Luceland se será siempre FIEL a la VERDAD, y no se penalizará la Ocultación y la Manipulación.
 
 #### 2.2.2 Se obedecerán las normas que regulan la convovencia de Luceland. Estas normas, y las consecuencias de su imcumplimiento, pueden ser negociadas por todos los miembros cada seis meses.
 
