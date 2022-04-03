@@ -14,5 +14,5 @@ Se cuidará el cuerpo para mantenerlo sano, lo que incluye la higiene personal d
 
 Se facilitará el desarrollo psicológico sano, rodeandose de personas que no puedan dañar al Adolescente, que aporten habitos de vida saludables, y escuchando las opiniones de los adultos. 
 
-La Madre se compromete a apoyar la práctica de deporte, con su tiempo y dinero.
+La madre se compromete a apoyar la práctica de deporte, con su tiempo y dinero.
 ```
