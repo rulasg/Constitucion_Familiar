@@ -10,11 +10,11 @@
 ### Artículo 2
 
 1. Cada miembro tiene la obligación de desempeñar su ocupación principal a su máxima capacidad de rendimiento e interes.
-2. Cada miembro tiene el derecho de que no se le interpongan obstaculos en el desempeño de su ocupación principal con sus maxima capacidad.
+2. Cada miembro tiene el derecho de que no se le interpongan obstaculos en el desempeño de su ocupación principal con su maxima capacidad.
 
 ### Artículo 3
 
-1. El Alto Tribunal tendra la responsabilidad e mediar en los conflictos que pudierán surgir a la hora de ejercer este derecho de forma combinada.
+1. El Alto Tribunal tendra la responsabilidad de mediar en los conflictos que pudierán surgir a la hora de ejercer este derecho de forma combinada.
 1. Debera mediar para encontrar consensos de cuantos miembros se vean afectados y dictar resolución propia si ese acuerdo no se alcanzara por las partes.
 
 ### Articulo 4
