@@ -15,3 +15,4 @@ En consecuencia, los máximos responsables de la familia desarrollan y aprueban 
 - [Titulo III - Usos y cuidados de lo material](titulo3-UsoCuidadosMaterial.md)
 - [Titulo IV  - Comportamiento social](titulo4-ComportamientoSocial.md)
 - [Titulo V   - Gestión del capital](titulo5-GestionDelCapital.md)
+- [Titulo VI  - Respeto a uno mismo, desarrollo integral](titulo6-RespetoAUnoMismo.md)
