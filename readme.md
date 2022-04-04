@@ -1,8 +1,8 @@
 
 - [Preámbulo](#preámbulo)
-- [Titulo Preliminar Órganos y Organización](#titulo-preliminar-órganos-y-organización)
+- [Titulo Preliminar - Órganos y Organización](#titulo-preliminar---órganos-y-organización)
   - [Artículo 1 - Definición](#artículo-1---definición)
-- [Titulo I Ocupación principal](#titulo-i-ocupación-principal)
+- [Titulo I - Ocupación principal](#titulo-i---ocupación-principal)
   - [Artículo 2 - Elección de ocupación principal](#artículo-2---elección-de-ocupación-principal)
   - [Artículo 3 - Nivel de desempeño](#artículo-3---nivel-de-desempeño)
   - [Artículo 4 - Colaboración](#artículo-4---colaboración)
@@ -12,17 +12,17 @@
   - [Artículo 7 - artículo 154 del Código Civil](#artículo-7---artículo-154-del-código-civil)
   - [Artículo 8 - Artículo 155 del Código Civil](#artículo-8---artículo-155-del-código-civil)
   - [Artículo 9 - Sinceridad y Honestidad](#artículo-9---sinceridad-y-honestidad)
-- [Titulo 3 Usos y cuidados de lo material](#titulo-3-usos-y-cuidados-de-lo-material)
-  - [Artículo 9](#artículo-9)
-- [Titulo 4 Comportamiento social](#titulo-4-comportamiento-social)
+- [Titulo 3 - Usos y cuidados de lo material](#titulo-3---usos-y-cuidados-de-lo-material)
+  - [Artículo 9 -](#artículo-9--)
+- [Titulo 4 - Comportamiento social](#titulo-4---comportamiento-social)
   - [Artículo - Comportamiento fuera del ámbito familiar](#artículo---comportamiento-fuera-del-ámbito-familiar)
   - [Artículo - Redes sociales](#artículo---redes-sociales)
-- [Titulo 5 Gestión del capital](#titulo-5-gestión-del-capital)
-  - [Artículo xx](#artículo-xx)
-- [Titulo VI Respeto a uno  mismo, desarrollo integral](#titulo-vi-respeto-a-uno--mismo-desarrollo-integral)
+- [Titulo 5 - Gestión del capital](#titulo-5---gestión-del-capital)
+  - [Artículo xx -](#artículo-xx--)
+- [Titulo VI - Respeto a uno mismo y desarrollo integral](#titulo-vi---respeto-a-uno-mismo-y-desarrollo-integral)
 - [Pendiente de decidir donde](#pendiente-de-decidir-donde)
   - [Artículo 10 - Normas revisables](#artículo-10---normas-revisables)
-  - [Artículo 11](#artículo-11)
+  - [Artículo 11 -](#artículo-11--)
   - [Artículo 12 - Contribuir a tareas domesticas](#artículo-12---contribuir-a-tareas-domesticas)
 
 ## Preámbulo
@@ -37,14 +37,14 @@ La familia, deseando establecer la justicia, la libertad y la seguridad, y promo
   
 En consecuencia, los máximos responsables de la familia desarrollan y aprueban por unanimidad lo siguiente.
 
-## Titulo Preliminar Órganos y Organización
+## Titulo Preliminar - Órganos y Organización
 
 ### Artículo 1 - Definición
 
 1. La familia esta constituida por el Alto Tribunal, también órgano regidor, y el resto de miembros.
 2. El Alto Tribunal estará formado por los miembros que sostengan económicamente y representen legalmente a la misma.
 
-## Titulo I Ocupación principal
+## Titulo I - Ocupación principal
 
 ### Artículo 2 - Elección de ocupación principal
 
@@ -110,13 +110,13 @@ Los hijos deben:
 2. Todo miembro de la familiar no hablara en vano, haciéndose siempre responsable de su testimonio.
 3. Cualquier acción podrá ser fruto de sanción.
 
-## Titulo 3 Usos y cuidados de lo material
+## Titulo 3 - Usos y cuidados de lo material
 
-### Artículo 9
+### Artículo 9 - 
 
 Se respetarán las pertenencias propias, comunes y de los otros miembros. Casa, coche, ropa, material escolar, etc.
 
-## Titulo 4 Comportamiento social
+## Titulo 4 - Comportamiento social
 
 ### Artículo - Comportamiento fuera del ámbito familiar
 
@@ -128,11 +128,11 @@ Siendo la madre responsable en último termino de las acciones, y consecuencias 
 2. El contenido que se visualice debe ser acorde a la edad de quien visualiza
 3. Todos los dispositivos en los que se pueda acceder a redes sociales podrán ser revisados por la madre en cualquier momento en que ella lo solicite, sin oponer ninguna resistencia, y dando acceso a todas las redes.
 
-## Titulo 5 Gestión del capital
+## Titulo 5 - Gestión del capital
 
-### Artículo xx
+### Artículo xx -
 
-## Titulo VI Respeto a uno  mismo, desarrollo integral
+## Titulo VI - Respeto a uno mismo y desarrollo integral
 
 ``` txt
 ## Sección 4ª - 
@@ -156,7 +156,7 @@ La madre se compromete a apoyar la práctica de deporte, con su tiempo y dinero.
 
 1. Estas normas, y las consecuencias de su incumplimiento, pueden ser negociadas por todos los miembros cada seis meses.
 
-### Artículo 11
+### Artículo 11 - 
 
 - [ ] Ana : las normas deben definir el marco para fomentar los valores que queremos. La generosidad por ejemplo. No podemos obligar a ser generosos.
 
