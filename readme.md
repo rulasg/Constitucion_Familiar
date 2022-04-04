@@ -1,4 +1,29 @@
-# Constitución familiar
+
+- [Preámbulo](#preámbulo)
+- [Titulo Preliminar Órganos y Organización](#titulo-preliminar-órganos-y-organización)
+  - [Artículo 1 - Definición](#artículo-1---definición)
+- [Titulo I Ocupación principal](#titulo-i-ocupación-principal)
+  - [Artículo 2 - Elección de ocupación principal](#artículo-2---elección-de-ocupación-principal)
+  - [Artículo 3 - Nivel de desempeño](#artículo-3---nivel-de-desempeño)
+  - [Artículo 4 - Colaboración](#artículo-4---colaboración)
+  - [Artículo 5 - Conflictos](#artículo-5---conflictos)
+  - [Artículo 6 - Faltas](#artículo-6---faltas)
+- [Titulo II - Respeto y Obediencia](#titulo-ii---respeto-y-obediencia)
+  - [Artículo 7 - artículo 154 del Código Civil](#artículo-7---artículo-154-del-código-civil)
+  - [Artículo 8 - Artículo 155 del Código Civil](#artículo-8---artículo-155-del-código-civil)
+  - [Artículo 9 - Sinceridad y Honestidad](#artículo-9---sinceridad-y-honestidad)
+- [Titulo 3 Usos y cuidados de lo material](#titulo-3-usos-y-cuidados-de-lo-material)
+  - [Artículo 9](#artículo-9)
+- [Titulo 4 Comportamiento social](#titulo-4-comportamiento-social)
+  - [Artículo - Comportamiento fuera del ámbito familiar](#artículo---comportamiento-fuera-del-ámbito-familiar)
+  - [Artículo - Redes sociales](#artículo---redes-sociales)
+- [Titulo 5 Gestión del capital](#titulo-5-gestión-del-capital)
+  - [Artículo xx](#artículo-xx)
+- [Titulo VI Respeto a uno  mismo, desarrollo integral](#titulo-vi-respeto-a-uno--mismo-desarrollo-integral)
+- [Pendiente de decidir donde](#pendiente-de-decidir-donde)
+  - [Artículo 10 - Normas revisables](#artículo-10---normas-revisables)
+  - [Artículo 11](#artículo-11)
+  - [Artículo 12 - Contribuir a tareas domesticas](#artículo-12---contribuir-a-tareas-domesticas)
 
 ## Preámbulo
 
@@ -11,32 +36,6 @@ La familia, deseando establecer la justicia, la libertad y la seguridad, y promo
 - Colaborar en el fortalecimiento de la familia dentro del marco constitucional y la convivencia social.
   
 En consecuencia, los máximos responsables de la familia desarrollan y aprueban por unanimidad lo siguiente.
-
-- [Constitución familiar](#constitución-familiar)
-  - [Preámbulo](#preámbulo)
-  - [Titulo Preliminar Órganos y Organización](#titulo-preliminar-órganos-y-organización)
-    - [Artículo 1 - Definición](#artículo-1---definición)
-  - [Titulo I Ocupación principal](#titulo-i-ocupación-principal)
-    - [Artículo 2 - Elección de ocupación principal](#artículo-2---elección-de-ocupación-principal)
-    - [Artículo 3 - Nivel de desempeño](#artículo-3---nivel-de-desempeño)
-    - [Artículo 4 - Colaboración](#artículo-4---colaboración)
-    - [Artículo 5 - Conflictos](#artículo-5---conflictos)
-    - [Artículo 6 - Faltas](#artículo-6---faltas)
-  - [Titulo II - Respeto y Obediencia](#titulo-ii---respeto-y-obediencia)
-    - [Artículo 7 - artículo 154 del Código Civil](#artículo-7---artículo-154-del-código-civil)
-    - [Artículo 8 - Artículo 155 del Código Civil](#artículo-8---artículo-155-del-código-civil)
-    - [Artículo 9 - Sinceridad y Honestidad](#artículo-9---sinceridad-y-honestidad)
-  - [Artículo 10 - Normas revisables](#artículo-10---normas-revisables)
-  - [Artículo 11](#artículo-11)
-  - [Artículo 12 - Contribuir a tareas domesticas](#artículo-12---contribuir-a-tareas-domesticas)
-  - [Titulo 3 Usos y cuidados de lo material](#titulo-3-usos-y-cuidados-de-lo-material)
-    - [Artículo 9](#artículo-9)
-  - [Titulo 4 Comportamiento social](#titulo-4-comportamiento-social)
-    - [Artículo - Comportamiento fuera del ámbito familiar](#artículo---comportamiento-fuera-del-ámbito-familiar)
-    - [Artículo - Redes sociales](#artículo---redes-sociales)
-  - [Titulo 5 Gestión del capital](#titulo-5-gestión-del-capital)
-    - [Artículo xx](#artículo-xx)
-  - [Titulo VI Respeto a uno  mismo, desarrollo integral](#titulo-vi-respeto-a-uno--mismo-desarrollo-integral)
 
 ## Titulo Preliminar Órganos y Organización
 
@@ -111,20 +110,6 @@ Los hijos deben:
 2. Todo miembro de la familiar no hablara en vano, haciéndose siempre responsable de su testimonio.
 3. Cualquier acción podrá ser fruto de sanción.
 
-## Artículo 10 - Normas revisables
-
-1. Estas normas, y las consecuencias de su incumplimiento, pueden ser negociadas por todos los miembros cada seis meses.
-
-## Artículo 11
-
-- [ ] Ana : las normas deben definir el marco para fomentar los valores que queremos. La generosidad por ejemplo. No podemos obligar a ser generosos.
-
-> 2.2.3 Se mantendrá siempre un trato de cariño y respeto entre todos los miembros, la generosidad entre los miembros debe imperar en su comportamiento.
-
-## Artículo 12 - Contribuir a tareas domesticas
-
-> 2.2.4 Los adolescentes se responsabilizan de tareas en el ámbito familiar que beneficien a todos los miembros, ayudando de esta forma, y cada uno con sus posibilidades, al levantamiento de las cargas y el buen funcionamiento de la familia.
-
 ## Titulo 3 Usos y cuidados de lo material
 
 ### Artículo 9
@@ -164,3 +149,19 @@ Se facilitará el desarrollo psicológico sano, rodeándose de personas que no p
 
 La madre se compromete a apoyar la práctica de deporte, con su tiempo y dinero.
 ```
+
+## Pendiente de decidir donde
+
+### Artículo 10 - Normas revisables
+
+1. Estas normas, y las consecuencias de su incumplimiento, pueden ser negociadas por todos los miembros cada seis meses.
+
+### Artículo 11
+
+- [ ] Ana : las normas deben definir el marco para fomentar los valores que queremos. La generosidad por ejemplo. No podemos obligar a ser generosos.
+
+> 2.2.3 Se mantendrá siempre un trato de cariño y respeto entre todos los miembros, la generosidad entre los miembros debe imperar en su comportamiento.
+
+### Artículo 12 - Contribuir a tareas domesticas
+
+> 2.2.4 Los adolescentes se responsabilizan de tareas en el ámbito familiar que beneficien a todos los miembros, ayudando de esta forma, y cada uno con sus posibilidades, al levantamiento de las cargas y el buen funcionamiento de la familia.
