@@ -9,11 +9,11 @@
   - [Artículo 5 - Conflictos](#artículo-5---conflictos)
   - [Artículo 6 - Faltas](#artículo-6---faltas)
 - [Titulo II - Respeto y Obediencia](#titulo-ii---respeto-y-obediencia)
-  - [Artículo 7 - artículo 154 del Código Civil](#artículo-7---artículo-154-del-código-civil)
-  - [Artículo 8 - Artículo 155 del Código Civil](#artículo-8---artículo-155-del-código-civil)
+  - [Artículo 7 - Obediencia y respeto por ley](#artículo-7---obediencia-y-respeto-por-ley)
+  - [Artículo 8 - Respeto reciproco](#artículo-8---respeto-reciproco)
   - [Artículo 9 - Sinceridad y Honestidad](#artículo-9---sinceridad-y-honestidad)
 - [Titulo 3 - Usos y cuidados de lo material](#titulo-3---usos-y-cuidados-de-lo-material)
-  - [Artículo 9 -](#artículo-9--)
+  - [Artículo -](#artículo--)
 - [Titulo 4 - Comportamiento social](#titulo-4---comportamiento-social)
   - [Artículo - Comportamiento fuera del ámbito familiar](#artículo---comportamiento-fuera-del-ámbito-familiar)
   - [Artículo - Redes sociales](#artículo---redes-sociales)
@@ -24,6 +24,8 @@
   - [Artículo 10 - Normas revisables](#artículo-10---normas-revisables)
   - [Artículo 11 -](#artículo-11--)
   - [Artículo 12 - Contribuir a tareas domesticas](#artículo-12---contribuir-a-tareas-domesticas)
+  - [Anexo 1 - artículo 154 del Código Civil](#anexo-1---artículo-154-del-código-civil)
+  - [Anexo 2 - Artículo 155 del Código Civil](#anexo-2---artículo-155-del-código-civil)
 
 ## Preámbulo
 
@@ -75,34 +77,13 @@ En consecuencia, los máximos responsables de la familia desarrollan y aprueban 
 
 ## Titulo II - Respeto y Obediencia
 
-### Artículo 7 - artículo 154 del Código Civil
+### Artículo 7 - Obediencia y respeto por ley
 
-``` txt
-Los hijos e hijas no emancipados están bajo la patria potestad de los progenitores.
-La patria potestad, como responsabilidad parental, se ejercerá siempre en interés de los hijos e hijas, de acuerdo con su personalidad, y con respeto a sus derechos, su integridad física y mental.
+1. Acorde [Artículo 155 del Código Civil](#anexo-2---artículo-155-del-código-civil) los miembros de la familia deberán obediencia y respeto a sus padres en todo momento. 
 
-Esta función comprende los siguientes deberes y facultades:
-    1.º Velar por ellos, tenerlos en su compañía, alimentarlos, educarlos y procurarles una formación integral.
-    2.º Representarlos y administrar sus bienes.
-    3.º Decidir el lugar de residencia habitual de la persona menor de edad, que solo podrá ser modificado con el consentimiento de ambos progenitores o, en su defecto, por autorización judicial.
+### Artículo 8 - Respeto reciproco
 
-Si los hijos o hijas tuvieren suficiente madurez deberán ser oídos siempre antes de adoptar decisiones que les afecten sea en procedimiento contencioso o de mutuo acuerdo.
-En todo caso, se garantizará que puedan ser oídas en condiciones idóneas, en términos que les sean accesibles, comprensibles y adaptados a su edad, madurez y circunstancias, recabando el auxilio de especialistas cuando ello fuera necesario.
-Los progenitores podrán, en el ejercicio de su función, recabar el auxilio de la autoridad.
-
-```
-
-[Art. 154 CC – Artículo 154 del Código Civil Español](https://www.ccivil.es/articulo-154-del-codigo-civil/)
-
-### Artículo 8 - Artículo 155 del Código Civil
-
-``` txt
-Los hijos deben:
-   1.° Obedecer a sus padres mientras permanezcan bajo su potestad, y respetarles siempre.
-   2.° Contribuir equitativamente, según sus posibilidades, al levantamiento de las cargas de la familia mientras convivan con ella.
-```
-
-[Art. 155 CC – Artículo 155 del Código Civil Español](https://www.ccivil.es/articulo-155-del-codigo-civil/)
+1. Del mismo modo, todos los miembros de la familiar deberán trata con respeto y consideración a cualquier miembro de la familia.
 
 ### Artículo 9 - Sinceridad y Honestidad
 
@@ -112,7 +93,7 @@ Los hijos deben:
 
 ## Titulo 3 - Usos y cuidados de lo material
 
-### Artículo 9 - 
+### Artículo - 
 
 Se respetarán las pertenencias propias, comunes y de los otros miembros. Casa, coche, ropa, material escolar, etc.
 
@@ -165,3 +146,32 @@ La madre se compromete a apoyar la práctica de deporte, con su tiempo y dinero.
 ### Artículo 12 - Contribuir a tareas domesticas
 
 > 2.2.4 Los adolescentes se responsabilizan de tareas en el ámbito familiar que beneficien a todos los miembros, ayudando de esta forma, y cada uno con sus posibilidades, al levantamiento de las cargas y el buen funcionamiento de la familia.
+
+### Anexo 1 - artículo 154 del Código Civil
+
+``` txt
+Los hijos e hijas no emancipados están bajo la patria potestad de los progenitores.
+La patria potestad, como responsabilidad parental, se ejercerá siempre en interés de los hijos e hijas, de acuerdo con su personalidad, y con respeto a sus derechos, su integridad física y mental.
+
+Esta función comprende los siguientes deberes y facultades:
+    1.º Velar por ellos, tenerlos en su compañía, alimentarlos, educarlos y procurarles una formación integral.
+    2.º Representarlos y administrar sus bienes.
+    3.º Decidir el lugar de residencia habitual de la persona menor de edad, que solo podrá ser modificado con el consentimiento de ambos progenitores o, en su defecto, por autorización judicial.
+
+Si los hijos o hijas tuvieren suficiente madurez deberán ser oídos siempre antes de adoptar decisiones que les afecten sea en procedimiento contencioso o de mutuo acuerdo.
+En todo caso, se garantizará que puedan ser oídas en condiciones idóneas, en términos que les sean accesibles, comprensibles y adaptados a su edad, madurez y circunstancias, recabando el auxilio de especialistas cuando ello fuera necesario.
+Los progenitores podrán, en el ejercicio de su función, recabar el auxilio de la autoridad.
+
+```
+
+[Art. 154 CC – Artículo 154 del Código Civil Español](https://www.ccivil.es/articulo-154-del-codigo-civil/)
+
+### Anexo 2 - Artículo 155 del Código Civil
+
+``` txt
+Los hijos deben:
+   1.° Obedecer a sus padres mientras permanezcan bajo su potestad, y respetarles siempre.
+   2.° Contribuir equitativamente, según sus posibilidades, al levantamiento de las cargas de la familia mientras convivan con ella.
+```
+
+[Art. 155 CC – Artículo 155 del Código Civil Español](https://www.ccivil.es/articulo-155-del-codigo-civil/)
